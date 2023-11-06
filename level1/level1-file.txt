@@ -1,0 +1,5 @@
+Caching data when using HttpClient
+By default, the provideClientHydration() function enables the recommended set of features for the optimal performance for most of the applications. It includes the following features:
+
+Reconciling DOM hydration (learn more about it here).
+HttpClient response caching while running on the server and transferring this cache to the client to avoid extra HTTP requests.

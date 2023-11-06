@@ -1,0 +1,4 @@
+Improve performance on mobile and low-powered devices
+Some devices don't support JavaScript or execute JavaScript so poorly that the user experience is unacceptable. For these cases, you might require a server-rendered, no-JavaScript version of the application. This version, however limited, might be the only practical alternative for people who otherwise couldn't use the application at all.
+
+

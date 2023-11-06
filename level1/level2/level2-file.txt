@@ -1,0 +1,4 @@
+Facilitate web crawlers (SEO)
+Google, Bing, Facebook, Twitter, and other social media sites rely on web crawlers to index your application content and make that content searchable on the web. These web crawlers might be unable to navigate and index your highly interactive Angular application as a human user could do.
+
+Angular Universal can generate a static version of your application that is easily searchable, linkable, and navigable without JavaScript. Universal also makes a site preview available because each URL returns a fully rendered page.
